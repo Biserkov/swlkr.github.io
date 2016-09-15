@@ -2,7 +2,7 @@
 title: "Essential clojure dev tools"
 date: "2016-03-31"
 layout: post
-path: "essential-clojure-dev-tools/"
+path: "/essential-clojure-dev-tools/"
 category: "clojure"
 description: "It's 2016, not 1958, the tools for writing lisp (clojure) have evolved. No one balances or even sees parens anymore. Here are the essential tools you should be using to write clojure and clojurescript code."
 ---

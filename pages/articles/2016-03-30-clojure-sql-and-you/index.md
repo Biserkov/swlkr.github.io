@@ -2,7 +2,7 @@
 title: "Clojure, SQL and You"
 date: "2016-03-30"
 layout: post
-path: "clojure-sql-and-you/"
+path: "/clojure-sql-and-you/"
 category: "clojure"
 description: "Data access made simple"
 ---

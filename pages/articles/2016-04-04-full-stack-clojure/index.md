@@ -2,7 +2,7 @@
 title: "Full stack clojure"
 date: "2016-04-04"
 layout: post
-path: "full-stack-clojure/"
+path: "/full-stack-clojure/"
 category: "clojure"
 description: "Full stack clojure, started from the server now we're here."
 ---
