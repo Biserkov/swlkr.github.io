@@ -2,7 +2,7 @@
 title: "Snap"
 date: "2016-08-20"
 layout: post
-path: "/snap/"
+path: "snap/"
 category: "clojurescript"
 description: "Dealing with restful APIs from a react based web app can be very ad hoc and informal."
 ---

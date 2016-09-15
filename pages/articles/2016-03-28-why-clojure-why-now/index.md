@@ -2,7 +2,7 @@
 title: "Why clojure why now?"
 date: "2016-03-28"
 layout: post
-path: "/why-clojure-why-now/"
+path: "why-clojure-why-now/"
 category: "clojure"
 description: "Clojure is slow to start, it's not the fastest once it gets going either. It runs on the JVM and has interop with java which is my least favorite language. The stack traces are terrible, bugs are easy to create and large refactoring is difficult without a lot of well written, well thought out tests."
 ---

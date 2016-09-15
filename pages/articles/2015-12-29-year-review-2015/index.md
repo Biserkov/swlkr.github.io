@@ -2,7 +2,7 @@
 title: "2015 Year in Review"
 date: "2015-12-29"
 layout: post
-path: "/2015-year-in-review/"
+path: "2015-year-in-review/"
 category: "life"
 description: "2015 was kind of a crazy year for me, I mean I didn't jump out of a plane like I did
 in 2013, or get married in Hawaii like I did in 2014, it was crazy for different reasons."

@@ -2,7 +2,7 @@
 title: "Things Clojure Makes Simple"
 date: "2016-03-29"
 layout: post
-path: "/things-clojure-makes-simple/"
+path: "things-clojure-makes-simple/"
 category: "clojure"
 description: "There's quite a few things that clojure makes simpler.
 
