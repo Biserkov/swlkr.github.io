@@ -1,0 +1,9 @@
+siteTitle = "swlkr"
+siteDescr = "Hi, I'm Sean and I'm trying to make stuff people want"
+siteAuthor = "Sean Walker"
+
+siteTwitterUrl = "https://twitter.com/swlkr"
+siteGithubUrl = "https://github.com/swlkr"
+siteEmailUrl = "swlkr.rbl@gmail.com"
+
+linkPrefix = "/"
